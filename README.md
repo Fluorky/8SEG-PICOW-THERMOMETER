@@ -3,7 +3,7 @@ Real time thermometer using PicoW, 8 SEG display and internal thermal sensor.
 To se this program you must create file config.py in picoWfiles
 with example contents:
 
-wifi_ssid = "ssid"
+wifi_ssid = "ssid"  
 wifi_password = "password"
 
 Next you must upload folder contents picoWfiles to Raspberry Pico W.
