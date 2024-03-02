@@ -1,6 +1,6 @@
 # 8SEG-PICOW-THERMOMETER
-Real time thermometer using PicoW, 8 SEG display and internal thermal sensor.
-To se this program you must create file config.py in picoWfiles
+Real time thermometer using PicoW, 8 SEG display and internal thermal sensor.  
+To use this program you must create file config.py in picoWfiles
 with example contents:
 
 wifi_ssid = "ssid"  
